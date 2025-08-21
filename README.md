@@ -1,6 +1,3 @@
-# fundamentos-cotil
-Material da aula de Fundamentos da informática
+## Sobre mim
 
-zago zika
-
-chapa
+Meu nome é **Caua Macieira** sou bom no *cod* 
