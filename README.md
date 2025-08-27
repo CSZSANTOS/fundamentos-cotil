@@ -4,8 +4,7 @@ Olá! Meu nome é **caua macieira**, tenho 16 anos e gosto muito de mexer com te
 e estou no *1 ano do medio*
 
 ### Habilidades
-
--[jogar(https://www.callofduty.com/br/pt/warzone)
+- [jogar](https://www.callofduty.com/br/pt/warzone)
 - escrever 
 - cozinhar
 - Desenhar
